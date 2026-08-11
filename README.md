@@ -191,7 +191,7 @@ red-x/
 <br />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&duration=2500&pause=1000&color=D4AF37&center=true&vCenter=true&width=400&lines=%23RedXFamily;%23JoinUs" alt="Hashtags" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=36&duration=2500&pause=1000&color=D4AF37&center=true&vCenter=true&width=400&lines=%23RedXFamily;%23JoinUs;%23Created+By;%23Atomic(Rehan)" alt="Hashtags" />
 </p>
 
 <p align="center">
