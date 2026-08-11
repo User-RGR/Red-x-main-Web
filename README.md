@@ -1,6 +1,5 @@
-# Red-x-main-Web
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=48&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=RED-X+%E2%84%A2;MUSIC.+TECH.+COMMUNITY." alt="RED-X Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=48&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=RED-X+%E2%84%A2;TECH.+COMMUNITY." alt="RED-X Typing" />
 </p>
 
 <br />
