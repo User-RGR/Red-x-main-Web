@@ -41,6 +41,11 @@ The landing page. A **3D particle globe** built with Three.js serves as the hero
 | 3D Card Tilt | Newsletter card tilts with mouse parallax |
 | Loading Screen | Animated logo build-up with progress bar |
 
+
+> [!NOTE]
+> **Subscription Form:** The newsletter email subscription on the Home page is not connected to any backend yet. This will be fixed in a future update.
+
+
 <br />
 
 ---
